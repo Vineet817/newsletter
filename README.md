@@ -1,3 +1,18 @@
+🚀 Newsletter Subscription Service – A Rust-based web application for managing newsletter subscriptions, built using Actix-Web, SQLx, and PostgreSQL.
+
+Features
+✅ User subscription with email & name
+✅ PostgreSQL database integration with SQLx
+✅ Actix-Web for high-performance API handling
+✅ Secure form validation & error handling
+✅ Docker support for easy deployment
+
+Tech Stack
+Rust 🦀 (Actix-Web, SQLx)
+PostgreSQL 🗄️ (Database)
+Docker 🐳 (Containerization)
+
+
 ## How to build
 
 Launch a (migrated) Postgres database via Docker:
